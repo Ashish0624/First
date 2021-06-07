@@ -6,5 +6,8 @@ Hakka Noodles
 Manchurian
 Burger
 
+Paneer
+Kulcha
+Naan
 
 Thankyou!
